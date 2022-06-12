@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Rawat
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning MERN / PERN Stack
+- 🌱 I’m currently learning React Native.
 - 📫 How to reach me ...
 - 🎮 Outside of coding I enjoy: Playing video games 
 <!---
