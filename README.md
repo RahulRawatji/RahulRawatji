@@ -2,8 +2,7 @@
 
 - 👋 Hi, I’m Rahul Rawat
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React Native.
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React Native and NextJs
 - 🎮 Outside of coding I enjoy: Playing video games 
 
 
