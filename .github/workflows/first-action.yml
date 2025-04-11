@@ -9,6 +9,8 @@ jobs:
       - name : Prinf Bye
         run: echo 'Bye'
       - name: Install Node
-        run: actions/setup-node@v3
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
       - name: node Installed
         run: echo 'Node Installed'
