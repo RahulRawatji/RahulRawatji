@@ -15,7 +15,7 @@ jobs:
       - name: node Installed
         run: echo 'Node Installed'
   second-job:
-    runs-on: unbuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Print Hello Second
         run: echo 'Hello Second'
