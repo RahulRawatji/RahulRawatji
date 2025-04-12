@@ -14,3 +14,10 @@ jobs:
           node-version: 22
       - name: node Installed
         run: echo 'Node Installed'
+  second-job:
+    runs-on: unbuntu-latest
+    steps:
+      -name: Print Hello Second
+      run: echo 'Hello Second'
+      -name: env value
+      run: echo "${{ toJSON(github) }}"
